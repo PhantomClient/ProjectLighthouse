@@ -24,3 +24,5 @@ After setting up appserv you can start it if you want. If you start it up from t
 ![](https://user-images.githubusercontent.com/100881277/156747001-3a896355-3521-47e3-b9f9-d9b3bd4616d6.png)
 
 ### Setting up the database
+https://user-images.githubusercontent.com/100881277/156747914-48e218ba-554d-49dc-8381-7c72596f48d1.mp4
+
