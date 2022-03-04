@@ -26,3 +26,4 @@ After setting up appserv you can start it if you want. If you start it up from t
 ### Setting Up The Database
 https://user-images.githubusercontent.com/100881277/156747914-48e218ba-554d-49dc-8381-7c72596f48d1.mp4
 
+i'll finish the rest later
