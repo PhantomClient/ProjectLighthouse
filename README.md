@@ -13,3 +13,5 @@ Requirements:
 - Internet Information Services / IIS
 - [Apache, MySQL, phpMyAdmin](http://appserv.org)
 - [Visual Studio Code](https://code.visualstudio.com)
+
+Downloading the files should be pretty self explanatory however setting up IIS will be required after you build [Project Lighthouse](https://github.com/LBPUnion/ProjectLighthouse).
