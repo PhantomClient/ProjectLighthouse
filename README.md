@@ -13,6 +13,7 @@ Requirements:
 - Internet Information Services / IIS
 - [Apache, MySQL, phpMyAdmin](http://appserv.org)
 - [Visual Studio Code](https://code.visualstudio.com)
+- [IIS Url Rewrite](https://www.iis.net/downloads/microsoft/url-rewrite)
 - A basic understanding of Port Forwarding
 
 Downloading the files should be pretty self explanatory however setting up IIS will be required after you build [Project Lighthouse](https://github.com/LBPUnion/ProjectLighthouse). Also when doing the appserv setup make the root password whatever you want as long as you can remember it. I recommend writing it down somewhere whether it's in a txt file / document. I'll be using the root password "lighthouse" because that's the default one in the project.
