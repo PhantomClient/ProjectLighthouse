@@ -34,4 +34,7 @@ https://user-images.githubusercontent.com/100881277/156747914-48e218ba-554d-49dc
 ### Running Project Lighthouse + Giving Yourself Admin
 https://youtu.be/4xOoCHini0M
 
+### Editing the Config
+This should be pretty self explanatory. Once you build and run successfully it should be in the same folder.
+
 If you are having trouble I'll try to assist you via YouTube comments.
