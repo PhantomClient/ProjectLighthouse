@@ -16,7 +16,7 @@ Requirements:
 - [IIS Url Rewrite](https://www.iis.net/downloads/microsoft/url-rewrite)
 - A basic understanding of Port Forwarding
 
-Downloading the files should be pretty self explanatory however setting up IIS will be required after you build [Project Lighthouse](https://github.com/LBPUnion/ProjectLighthouse). Also when doing the appserv setup make the root password whatever you want as long as you can remember it. I recommend writing it down somewhere whether it's in a txt file / document. I'll be using the root password "lighthouse" because that's the default one in the project.
+Downloading the files should be pretty self explanatory however setting up IIS will be required after you build [Project Lighthouse](https://github.com/LBPUnion/ProjectLighthouse). Also when doing the appserv setup make the root password whatever you want as long as you can remember it. I recommend writing it down somewhere whether it's in a txt file / document. I'll be using the root password "l1ghthous3".
 
 After setting up appserv you can start it if you want. If you start it up from the appserv installation then you won't have to worry about manually running it. However keep in mind that if you close it out of task manager or restart your pc you will have to start it up manually.
 
@@ -31,4 +31,5 @@ https://user-images.githubusercontent.com/100881277/156870521-f3ab1488-a981-48b1
 ### Setting Up The Database
 https://user-images.githubusercontent.com/100881277/156747914-48e218ba-554d-49dc-8381-7c72596f48d1.mp4
 
-i'll finish the rest later
+### Running Project Lighthouse + Giving Yourself Admin
+https://youtu.be/4xOoCHini0M
