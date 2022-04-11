@@ -3,7 +3,7 @@
 Project Lighthouse is a clean-room, open-source custom server for LittleBigPlanet. This is a project conducted by
 the [LBP Union Ministry of Technology Research and Development team](https://www.lbpunion.com/technology).
 
-This is a fork for [Project Lighthouse](https://github.com/LBPUnion/ProjectLighthouse) mainly dedicated towards the building section that they didn't create a tutorial yet as of March 4th-6th, 2022.
+This is a fork for [Project Lighthouse](https://github.com/LBPUnion/ProjectLighthouse) mainly dedicated towards the building section which wasn't created yet as of March 4th-6th, 2022.
 
 ## Building
 
